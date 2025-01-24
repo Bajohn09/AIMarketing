@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "message": "Message published to queue",
+  "task_id": "64f04b3b-26db-420f-b08e-a23a1981ac41",
+  "conversion_id_1": "91687678-9b23-4c4b-81aa-dcdfdee5beeb",
+  "conversion_id_2": "01c22ba1-8376-433c-875f-a59beb5d55ef",
+  "eta": 277
+}

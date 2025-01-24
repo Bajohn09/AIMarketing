@@ -1,0 +1,3 @@
+prompt_file: prompts\prompt1.txt
+lyrics_file: lyrics\lyrics1.txt
+response_output: gen_output.txt
